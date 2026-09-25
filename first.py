@@ -1,1 +1,1 @@
-print("hello mars!")
+print("went to jupiter tobecome more supider")
